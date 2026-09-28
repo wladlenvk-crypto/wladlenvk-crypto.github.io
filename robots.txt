@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wladlenvk-crypto.github.io/koncepciya-razvitiya/sitemap.xml
