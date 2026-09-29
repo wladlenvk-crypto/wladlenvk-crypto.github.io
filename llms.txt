@@ -1,0 +1,7 @@
+# wladlenvk-crypto.github.io
+
+Корень домена. Основной контент — в подразделе «Концепция развития»:
+
+- [Концепция развития. Нетривиальный взгляд на эволюцию](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/) — книга Владлена В.К. (2022, Прометей, 336 с., CC BY 4.0)
+- [llms.txt раздела](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/llms.txt) — полная карта страниц и статей
+- [English Summary (для AI/RAG)](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/en_summary.html)
